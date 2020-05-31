@@ -1,2 +1,2 @@
 # Deeplearning Notebooks
-Collection of jupyter notebooks of deep learning projects. 
+Jupyter notebooks of deep learning projects.
